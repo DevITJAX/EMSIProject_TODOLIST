@@ -36,7 +36,7 @@ A simple **To-Do List** application that allows users to efficiently manage thei
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/EMSIProject_TODOLIST.git
+git clone https://github.com/DevITJAX/EMSIProject_TODOLIST.git
 ```
 
 ### Build and Run the Application
